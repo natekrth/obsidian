@@ -5,3 +5,4 @@
 [The Free AI Tool that Knows Everything You've Written (Obsidian with AI)](https://www.youtube.com/watch?v=SG2ozNh-27Y)
 [Notion vs Obsidian: Which One Should You Use? 🤔 (Full Comparison)](https://www.youtube.com/watch?v=WtpSl3WzxQA)
 [How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=34s)
+[Setup Git](https://www.youtube.com/watch?v=5YZz38U20ws)

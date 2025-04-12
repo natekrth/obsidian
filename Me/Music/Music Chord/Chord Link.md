@@ -1,0 +1,1 @@
+[Everything](https://chordtabs.in.th/3889/)  ^62f428
