@@ -22,7 +22,7 @@ Welcome to your **Markdown playground**! Here's a quick overview of what Markdow
   - Sub-item
 
 ### Ordered
-1.  Step one
+1. Step one
 2. Step two
 3. Sub-step
 
