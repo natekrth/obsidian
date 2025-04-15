@@ -64,7 +64,7 @@ Welcome to your **Markdown playground**! Here's a quick overview of what Markdow
 ## 🧠 Code Blocks
 
 ```bash
-# Run an Ansible playbook
+# Run my Ansible playbook
 ansible-playbook deploy.yml -i inventory.ini
 
 ^7da06d
